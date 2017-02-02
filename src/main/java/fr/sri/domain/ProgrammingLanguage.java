@@ -17,7 +17,7 @@ public class ProgrammingLanguage {
 
     String name;
 
-    public ProgrammingLanguage() {
+    public ProgrammingLanguage() { // jpa needs this
     }
 
     public ProgrammingLanguage(String name) {
